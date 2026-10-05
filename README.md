@@ -8,15 +8,15 @@ PodnLearn is a Podcast and AI-based e-book learner web application designed to p
 
 ### Default Home Page
 
-![PodnLearn Default Home](images/podnlearn%20default%20home.png)
+![PodnLearn Default Home](podnlearn%20default%20home.png)
 
 ### Home Page
 
-![PodnLearn Home](images/podnlearn%20home.png)
+![PodnLearn Home](podnlearn%20home.png)
 
 ### Sign In Page
 
-![PodnLearn Sign In](images/podnlearn%20sign%20in.png)
+![PodnLearn Sign In](podnlearn%20sign%20in.png)
 
 ## Key Features
 
